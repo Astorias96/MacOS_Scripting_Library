@@ -13,5 +13,5 @@ Below are the supported systems:
 
 
 # Licensing
-This repository is a compilation of shell scripts that were written by myself and adapted following my needs.
+This repository is a compilation of bash / shell scripts that were written by myself and adapted following my needs.
 All the necessary licenses are found in the license file. This software is distributed "as-is". Use it at your own risk.
