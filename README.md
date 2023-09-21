@@ -11,9 +11,9 @@ Below are the supported systems:
 * MacOS BigSur (all versions)
 * MacOS Monterey (all versions)
 * MacOS Ventura (all versions)
-* HackinTosh (to be tested)
+* MacOS Sonoma (to be tested)
 
-In some cases, youmight need to allow osascript to take some actions on first launch.
+In some cases, you might need to allow osascript to take some actions on first launch.
 
 # Licensing
 This repository is a compilation of bash / shell scripts that were written by myself and adapted following my needs.
